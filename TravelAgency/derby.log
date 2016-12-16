@@ -1,0 +1,96 @@
+----------------------------------------------------------------
+Fri Dec 16 17:33:23 UTC 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0159-08b2-0bf4-000006c3f998 
+on database directory /home/vagrant/workspace/TravelAgency/travelAgency with class loader sun.misc.Launcher$AppClassLoader@d16e5d6 
+Loaded from file:/home/vagrant/workspace/TravelAgency/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_80-b15
+user.dir=/home/vagrant/workspace/TravelAgency
+os.name=Linux
+os.arch=amd64
+os.version=3.13.0-95-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Dec 16 17:33:24 UTC 2016:
+Shutting down instance a816c00e-0159-08b2-0bf4-000006c3f998 on database directory /home/vagrant/workspace/TravelAgency/travelAgency with class loader sun.misc.Launcher$AppClassLoader@d16e5d6 
+----------------------------------------------------------------
+Fri Dec 16 17:33:24 UTC 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance 6074401f-0159-08b2-0bf4-000006c3f998 
+on database directory /home/vagrant/workspace/TravelAgency/travelAgency with class loader sun.misc.Launcher$AppClassLoader@d16e5d6 
+Loaded from file:/home/vagrant/workspace/TravelAgency/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_80-b15
+user.dir=/home/vagrant/workspace/TravelAgency
+os.name=Linux
+os.arch=amd64
+os.version=3.13.0-95-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Dec 16 17:33:24 UTC 2016:
+Shutting down instance 6074401f-0159-08b2-0bf4-000006c3f998 on database directory /home/vagrant/workspace/TravelAgency/travelAgency with class loader sun.misc.Launcher$AppClassLoader@d16e5d6 
+----------------------------------------------------------------
+Fri Dec 16 17:33:24 UTC 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a094c023-0159-08b2-0bf4-000006c3f998 
+on database directory /home/vagrant/workspace/TravelAgency/travelAgency with class loader sun.misc.Launcher$AppClassLoader@d16e5d6 
+Loaded from file:/home/vagrant/workspace/TravelAgency/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_80-b15
+user.dir=/home/vagrant/workspace/TravelAgency
+os.name=Linux
+os.arch=amd64
+os.version=3.13.0-95-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Dec 16 17:33:24 UTC 2016:
+Shutting down instance a094c023-0159-08b2-0bf4-000006c3f998 on database directory /home/vagrant/workspace/TravelAgency/travelAgency with class loader sun.misc.Launcher$AppClassLoader@d16e5d6 
+----------------------------------------------------------------
+Fri Dec 16 17:33:24 UTC 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance e0b94027-0159-08b2-0bf4-000006c3f998 
+on database directory /home/vagrant/workspace/TravelAgency/travelAgency with class loader sun.misc.Launcher$AppClassLoader@d16e5d6 
+Loaded from file:/home/vagrant/workspace/TravelAgency/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_80-b15
+user.dir=/home/vagrant/workspace/TravelAgency
+os.name=Linux
+os.arch=amd64
+os.version=3.13.0-95-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Dec 16 17:33:24 UTC 2016:
+Shutting down instance e0b94027-0159-08b2-0bf4-000006c3f998 on database directory /home/vagrant/workspace/TravelAgency/travelAgency with class loader sun.misc.Launcher$AppClassLoader@d16e5d6 
+----------------------------------------------------------------
+Fri Dec 16 17:33:24 UTC 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance 20e1c02b-0159-08b2-0bf4-000006c3f998 
+on database directory /home/vagrant/workspace/TravelAgency/travelAgency with class loader sun.misc.Launcher$AppClassLoader@d16e5d6 
+Loaded from file:/home/vagrant/workspace/TravelAgency/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_80-b15
+user.dir=/home/vagrant/workspace/TravelAgency
+os.name=Linux
+os.arch=amd64
+os.version=3.13.0-95-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Dec 16 17:33:24 UTC 2016:
+Shutting down instance 20e1c02b-0159-08b2-0bf4-000006c3f998 on database directory /home/vagrant/workspace/TravelAgency/travelAgency with class loader sun.misc.Launcher$AppClassLoader@d16e5d6 
+----------------------------------------------------------------
+Fri Dec 16 17:33:24 UTC 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance 610e402f-0159-08b2-0bf4-000006c3f998 
+on database directory /home/vagrant/workspace/TravelAgency/travelAgency with class loader sun.misc.Launcher$AppClassLoader@d16e5d6 
+Loaded from file:/home/vagrant/workspace/TravelAgency/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_80-b15
+user.dir=/home/vagrant/workspace/TravelAgency
+os.name=Linux
+os.arch=amd64
+os.version=3.13.0-95-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Dec 16 17:33:24 UTC 2016:
+Shutting down instance 610e402f-0159-08b2-0bf4-000006c3f998 on database directory /home/vagrant/workspace/TravelAgency/travelAgency with class loader sun.misc.Launcher$AppClassLoader@d16e5d6 
