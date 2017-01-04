@@ -4,6 +4,7 @@ import models.*;
 
 import java.sql.Timestamp;
 
+import javax.jws.WebResult;
 import javax.jws.WebService;
 
 @WebService
